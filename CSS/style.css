@@ -2,7 +2,7 @@
 
         body {
             font-family: Arial, sans-serif; /* Changes the default font for the whole page */
-            background-color: #f0f8ff; /* Light sky blue background */
+            background-color: #000000; /* Light sky blue background */
             color: #333; /* Dark grey text color */
             margin: 20px; /* Adds some space around the content */
             padding: 0;
@@ -127,7 +127,7 @@
         }
 		
 		   .video-container {
-            background-color: #ffffff;
+            background-color: #FFA500;
             border: 1px solid #e0e0e0;
             border-radius: 10px;
             
@@ -298,4 +298,5 @@
 video {
   width: 100%;
   height: auto;
+
 }
